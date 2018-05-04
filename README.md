@@ -12,7 +12,7 @@ This project aims to add an option to [Mozilla's pdf renderer](https://mozilla.g
 
 ## pdf disassemblers
 
-[qpdf](https://github.com/qpdf/qpdf) does an excellent job of converting a pdf to text.
+[qpdf](https://github.com/qpdf/qpdf) does an excellent job of mapping the contents of a pdf to text.
 
 [pdffigures](https://github.com/allenai/pdffigures) extracts figures from pdfs.
 
@@ -25,7 +25,6 @@ Manual conversion to svg and then automatic [conversion from svg](https://arxiv.
 [pdftabextract](https://github.com/WZBSocialScienceCenter/pdftabextract)
 
 [xpdf](https://www.xpdfreader.com/) is used as a library by many tools.
-readable 
 
 [poppler](https://poppler.freedesktop.org/) is a popular pdf rendering library.
 
