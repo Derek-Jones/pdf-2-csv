@@ -18,7 +18,11 @@ This project aims to add an option to [Mozilla's pdf renderer](https://mozilla.g
 
 ## Related tools
 
-Manual conversion to svg and then automatic [conversion from svg](https://arxiv.org/html/1709.02261)
+Manual conversion to svg and then automatic [conversion from svg](https://arxiv.org/html/1709.02261).
+
+[chemdataextractor](http://chemtadataextractor.org/), as the name suggests, is oriented towards extracting chemical information from pdfs, e.g., chemical names and formula.
+
+[utopia](http://utopiadocs.com/) attempts to extract structural features of an article, including citations.
 
 [pdfgrep](https://pdfgrep.org/)
 
